@@ -15,6 +15,9 @@
 - [Bug-Tracking](#Bug-Tracking)
 - [Usability-Testing](#Userbility-Testing)
 - [Evaluation](#Evaluation)
+- [Final-Evaluation](#Final-Evaluation)
+- [Potential-Future-Improvements](#Potential-Future-Improvements)
+- [Feedback-Responses](#Feedback-Responses)
 
 # Introduction
 # Design-Documentation
@@ -35,3 +38,6 @@
 ## Bug-Tracking
 ## Usability-Testing
 # Evaluation 
+## Final-Evaluation
+## Potential-Future-Improvements 
+## Feedback-Responses
