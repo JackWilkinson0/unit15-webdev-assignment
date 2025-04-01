@@ -4,11 +4,12 @@
 # Contents
 - [Introduction](#Introduction)
 - [User-Requirments](#User-Requirments)
-- [design-plan](#design-plan)
+- [Design-Documentation](#Design-Documentation)
 - [Wireframe](#Wireframe)
-- [initial-design](#initial-design)
-- [webpage-testing](#webpage-testing)
+- [Initial-Design](#Initial-Design)
+- [Webpage-Testing](#Webpage-Testing)
 - [Test-Plan](#Test-Plan)
+- [Test-Cases](#Test-Cases)
 - [Evaluation](#Evaluation)
 
 ## Introduction
@@ -19,10 +20,11 @@
 - an on-line application form
 - links to web development courses
 - 
-## design-plan
+## Design-Documentation
 ## Wireframe
-## initial-design 
-## webpage-testing
+## Initial-Design 
+## Webpage-Testing
 ## Test-Plan
+## Test-Cases
 
 ## Evaluation 
