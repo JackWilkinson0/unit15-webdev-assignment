@@ -3,23 +3,26 @@
 
 # Contents
 - [Introduction](#Introduction)
-- [design-plan](#design-plan)
 - [User-Requirments](#User-Requirments)
+- [design-plan](#design-plan)
 - [Wireframe](#Wireframe)
+- [initial-design](#initial-design)
+- [webpage-testing](#webpage-testing)
 - [Test-Plan](#Test-Plan)
 - [Evaluation](#Evaluation)
 
 ## Introduction
-## design-plan
 ## User-Requirments
 
 - A profile of the company itself
 - job specifications and required qualifications
 - an on-line application form
 - links to web development courses
-
+- 
+## design-plan
 ## Wireframe
-
+## initial-design 
+## webpage-testing
 ## Test-Plan
 
 ## Evaluation 
