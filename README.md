@@ -8,6 +8,7 @@
 - [Wireframe](#Wireframe)
 - [Initial-Design](#Initial-Design)
 - [User-Flow-Diagrams](#User-Flow-Diagrams)
+- [Colour-Scheme](#Colour-Scheme)
 - [Webpage-Testing](#Webpage-Testing)
 - [Test-Plan](#Test-Plan)
 - [Test-Cases](#Test-Cases)
@@ -27,6 +28,7 @@
 ## Wireframe
 ## Initial-Design 
 ## User-Flow-Diagrams
+## Colour-Scheme
 # Webpage-Testing
 ## Test-Plan
 ## Test-Cases
