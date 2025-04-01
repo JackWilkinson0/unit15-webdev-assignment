@@ -7,9 +7,12 @@
 - [User-Requirments](#User-Requirments)
 - [Wireframe](#Wireframe)
 - [Initial-Design](#Initial-Design)
+- [User-Flow-Diagrams](#User-Flow-Diagrams)
 - [Webpage-Testing](#Webpage-Testing)
 - [Test-Plan](#Test-Plan)
 - [Test-Cases](#Test-Cases)
+- [Bug-Tracking](#Bug-Tracking)
+- [Usability-Testing](#Userbility-Testing)
 - [Evaluation](#Evaluation)
 
 # Introduction
@@ -23,8 +26,10 @@
 
 ## Wireframe
 ## Initial-Design 
+## User-Flow-Diagrams
 # Webpage-Testing
 ## Test-Plan
 ## Test-Cases
-
-## Evaluation 
+## Bug-Tracking
+## Usability-Testing
+# Evaluation 
