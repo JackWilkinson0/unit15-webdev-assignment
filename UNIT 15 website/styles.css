@@ -8,7 +8,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #333;
+    background-color: #06402b;
     color: white;
     padding: 0.5em 1em;
   }
@@ -55,10 +55,16 @@ body {
     max-width: 720px !important;
 }
  
+img {
+  
+  border-radius: 50px;
+  border-color:  #87CEEB;
+}
 
  
 .image-left, .image-right
 {
+  
 	margin: 1em 0;
 }
  
