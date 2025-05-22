@@ -215,8 +215,14 @@ On all of these platforms the website ran fine and did not face any issue s in m
 
 # Evaluation 
 ## Final-Evaluation
+I believe that my website met the clients requirements as first of all it has a profile of the company on the about us page as well as a description of all the employees. Secondly, I have both of the job descriptions and these both contain the specification and required qualifications needed for the job. Also below these job descriptions is a full application form that people can fill out to contact the company for a potential interview.  Furthermore, there are descriptions and links to many courses that they can complete to get the required qualifications. Finally  the overall website flows well and is easy to navigate and understand what is going on. 
+
+therfore I believe that this website does infact meet the clinets requirments.
 
 ## Potential-Future-Improvements 
+There are a few things that could be done to make the website even better. First of all the website could have more colour as it is a lot of white so using more colour ihelp slit it up and look better. Secondly, I would add more images as there are not many while there is a lot of writing and the image would break it up and look better. 
+
+Therefore the website works well and has all of the required features . the website could be more visually appealing to be even better
 
 ## Feedback-Responses
 
