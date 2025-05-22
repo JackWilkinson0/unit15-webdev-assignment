@@ -72,6 +72,35 @@ A range of green, blue, white and black.
 the reason for this is that it matches the colours of the companys logo  as well as allowing for for a simple design. that lokks quite sharp.
 
 # Code-Deveolpment
+
+Once I finished the plan and stared to create a website the first thing i did was to create each page and have a menu where you can access the page at the top by just clicking the button.
+![image](https://github.com/user-attachments/assets/9212f55a-c39b-4053-ae88-7ceb3b1bc797)
+
+the next thig i did was fill out the about us page as i had all of the infor mation for the employees and the images of them as well.
+![image](https://github.com/user-attachments/assets/4bec9802-1565-4112-9b9d-4bcbf3afac0b)
+
+After tthat i filled out the home page where i put the image of the company building contact information and privact polacy.
+![image](https://github.com/user-attachments/assets/10aec743-dcdf-46be-ab94-aecb5abc9592)
+
+The next thing i did was to to add job descriptiion to the application page. then i created the application form for the page as well.
+![image](https://github.com/user-attachments/assets/a5e2e725-e37f-4c92-9d04-7146a6d56420)
+![image](https://github.com/user-attachments/assets/aa68e766-04f4-48f8-9800-db2e786a1779)
+
+Then finally i filled out the courese where i listed courses and what they offer with links to their websites as well.
+![image](https://github.com/user-attachments/assets/858fdc26-7bd0-42b0-8f21-9af3833cf0be)
+
+After I recied the feeback from other I decied to optimise the website for better use and quality. 
+
+so the first thind I did was chand the menu at the top of the page to green as this mathched the copany logo and added more colout the the website.
+![image](https://github.com/user-attachments/assets/279d97c0-43cd-4773-9988-dec7ab1eaadf)
+
+After that I decided to add the company logo to the page as it made the page stand out better and look better overall.
+![image](https://github.com/user-attachments/assets/3f0be270-2436-4436-aee2-19c9cc20f12c)
+
+Then finally i deced to add borders to all of the images as it made them appear less rigid anf make the website flow better overall.
+![image](https://github.com/user-attachments/assets/7c0ea648-21c5-4be7-9ba1-63869132f308)
+
+
 # Webpage-Testing
 ## Test-Plan
 
@@ -186,7 +215,16 @@ On all of these platforms the website ran fine and did not face any issue s in m
 
 # Evaluation 
 ## Final-Evaluation
+
 ## Potential-Future-Improvements 
+
 ## Feedback-Responses
+
 ### Plan feedback
+![image](https://github.com/user-attachments/assets/75b69551-746f-4102-8b3e-a5cf612774d8)
+![image](https://github.com/user-attachments/assets/1f706057-ebb7-4f7b-82b2-658ea016a142)
+
 ### website feedback
+![image](https://github.com/user-attachments/assets/2beac22a-3ded-4696-86e3-51f8a57fb1e3)
+![image](https://github.com/user-attachments/assets/2696832a-2f3f-4c39-befd-b7b2c74055a4)
+
